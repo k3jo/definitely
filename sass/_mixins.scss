@@ -1,0 +1,8 @@
+$grey: #999999;
+$bg-grey: #f4f4f4;
+$lurk: #cccccc;
+
+@mixin display() {
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+}
